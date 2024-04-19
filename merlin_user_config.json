@@ -1,0 +1,25 @@
+{
+    "data": {
+        "user": {
+            "type": "PAID",
+            "used": 0,
+            "limit": 99999,
+            "userPlan": "UNLIMITED",
+            "cappedFeatures": {
+                "merlin": {
+                    "used": 102,
+                    "limit": 99999,
+                    "usage": 102,
+                    "topUps": [],
+                    "resetsAt": 1712866247000
+                },
+                "webPdfChat": {
+                    "used": 0,
+                    "limit": 5000,
+                    "usage": 0
+                }
+            }
+        }
+    },
+    "status": "success"
+}
