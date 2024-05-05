@@ -1,1 +1,189 @@
-{"status": {"code": 20000}, "results": {"codeLength": 6, "route": "sms", "sessionId": "1b1d7674128384c6c7256516117c07fe", "persons": [{}]}}
+{
+    "status": 200,
+    "results": [
+        {
+            "action": "photo_enhance",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "object_removal",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "background_removal",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "colorize",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "lighting",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "blur_background",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "change_background",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "expire",
+            "amount": null,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "text_to_image",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "hair_style",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "wig",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_photo_enhance",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_object_removal",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_background_removal",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_colorize",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_text_to_image",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_hair_style",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_lighting",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "out_paint",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_aging",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "api_wig",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "obj_replace",
+            "amount": 1,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        },
+        {
+            "action": "mu_transfer",
+            "amount": 2,
+            "type": "consume",
+            "info": {
+                "costFree": true
+            }
+        }
+    ]
+}
